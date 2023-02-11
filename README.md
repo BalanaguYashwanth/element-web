@@ -296,7 +296,7 @@ Then similarly with `matrix-react-sdk`:
 git clone https://github.com/matrix-org/matrix-react-sdk.git
 pushd matrix-react-sdk
 yarn link
-yarn link matrix-js-sdk
+yarn link matrix-react-sdk
 yarn install
 popd
 ```
